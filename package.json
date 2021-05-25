@@ -8,6 +8,7 @@
   },
   "author": "Mahir Absar",
   "license": "ISC",
+  "type":"module",
   "dependencies": {
     "date-format": "^3.0.0"
   }
